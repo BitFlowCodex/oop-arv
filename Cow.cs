@@ -13,7 +13,7 @@ public class Cow : Animal
     HasHorns = true;
   }
 
-  public void ProduceMilk()
+  public void Horns()
   {
     Console.WriteLine(HasHorns ? "This Cow has horns" : "This Cow doesn't have horns");
   }
