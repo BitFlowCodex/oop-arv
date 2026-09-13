@@ -15,6 +15,6 @@ public class Cow : Animal
 
   public void ProduceMilk()
   {
-    Console.WriteLine(HasHorns ? "Has horns" : "No horns");
+    Console.WriteLine(HasHorns ? "This Cow has horns" : "This Cow doesn't have horns");
   }
 }
