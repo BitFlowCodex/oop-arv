@@ -1,22 +1,13 @@
 public class Animal
 {
-  public required string Sound;
-  public required string Rest;
-  public required string Diet;
-  public required string Movement;
-  public required string Habitat;
-  public required string Family;
-  public required string Species;
+  public string Sound = "";
+  public string RestHours = "";
+  public string Diet = "";
+  public string Movement = "";
+  public string Habitat = "";
+  public string Species = "";
 
-  public Animal(string sound, string rest, string diet, string movement, string habitat, string species)
-  {
-    Sound = sound;
-    Rest = rest;
-    Diet = diet;
-    Movement = movement;
-    Habitat = habitat;
-    Species = species;
-  }
+  public Animal() { }
 
   public void MakeSound()
   {
@@ -25,7 +16,7 @@ public class Animal
 
   public void Sleep()
   {
-    Console.WriteLine($"{Species} sleeps for {Rest}");
+    Console.WriteLine($"{Species} sleeps for {RestHours} hours");
   }
 
   public void Eat()
