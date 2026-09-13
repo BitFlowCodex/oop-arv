@@ -1,6 +1,6 @@
 public class Dog : Animal
 {
-  public bool CanFetch;
+  public bool LikesFetch;
 
   public Dog()
   {
@@ -10,11 +10,11 @@ public class Dog : Animal
     Movement = "Walking, running and jumping";
     Habitat = "Households";
     Species = "Dog";
-    CanFetch = true;
+    LikesFetch = true;
   }
 
   public void Fetch()
   {
-    Console.WriteLine(CanFetch ? "Can fetch it" : "Can't fetch");
+    Console.WriteLine(LikesFetch ? "This dog loves fetching" : "This dog hates fetching");
   }
 }
