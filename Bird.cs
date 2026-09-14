@@ -26,6 +26,7 @@ public class Parrot : Bird
   public Parrot(string spokenMessage)
   {
     SpokenMessage = spokenMessage;
+    // This bird can fly
   }
 
   public void Speak()
@@ -42,6 +43,7 @@ public class Penguin : Bird
   public Penguin(bool sliding)
   {
     Sliding = sliding;
+    CanFly = false;
   }
 
   public void Slide()
