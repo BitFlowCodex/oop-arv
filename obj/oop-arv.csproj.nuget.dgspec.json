@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/jack/Documents/learn-new-stuff/oop-arv/oop-arv.csproj": {}
+    "/home/jack/Documents/learn-new-stuff/OopArv/oop-arv.csproj": {}
   },
   "projects": {
-    "/home/jack/Documents/learn-new-stuff/oop-arv/oop-arv.csproj": {
+    "/home/jack/Documents/learn-new-stuff/OopArv/oop-arv.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jack/Documents/learn-new-stuff/oop-arv/oop-arv.csproj",
+        "projectUniqueName": "/home/jack/Documents/learn-new-stuff/OopArv/oop-arv.csproj",
         "projectName": "oop-arv",
-        "projectPath": "/home/jack/Documents/learn-new-stuff/oop-arv/oop-arv.csproj",
+        "projectPath": "/home/jack/Documents/learn-new-stuff/OopArv/oop-arv.csproj",
         "packagesPath": "/home/jack/.nuget/packages/",
-        "outputPath": "/home/jack/Documents/learn-new-stuff/oop-arv/obj/",
+        "outputPath": "/home/jack/Documents/learn-new-stuff/OopArv/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jack/.nuget/NuGet/NuGet.Config"

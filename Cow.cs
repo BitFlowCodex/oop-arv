@@ -18,3 +18,13 @@ public class Cow : Animal
     Console.WriteLine(HasHorns ? "This Cow has horns" : "This Cow doesn't have horns");
   }
 }
+
+public class Highland : Cow
+{
+  
+}
+
+public class Angus : Cow
+{
+
+}
