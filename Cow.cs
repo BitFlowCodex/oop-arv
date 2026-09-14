@@ -21,10 +21,32 @@ public class Cow : Animal
 
 public class Highland : Cow
 {
-  
+  public bool HairShake;
+
+  public Highland(bool hairShake)
+  {
+    HairShake = hairShake;
+  }
+
+  public void ShakeHair()
+  {
+    Console.WriteLine(HairShake ? "This Highland is shaking their hair" : "This Highland doesn't want to shake their hair")
+  }
 }
 
 public class Angus : Cow
 {
+  public bool BlackCoat;
+
+  public Angus()
+  {
+    HasHorns = false;
+    BlackCoat = true;
+  }
+
+  public void HasBlackCoat()
+  {
+    Console.WriteLine(BlackCoat ? "This Angus has blackcoat" : "This Angus has another coat color");
+  }
 
 }
