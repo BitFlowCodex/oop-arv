@@ -18,13 +18,3 @@ public class Dog : Animal
     Console.WriteLine(LikesFetch ? "This dog loves fetching" : "This dog hates fetching");
   }
 }
-
-public class PitBull
-{
-  
-}
-
-public class GoldenRetriver()
-{
-
-}
