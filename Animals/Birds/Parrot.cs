@@ -5,12 +5,11 @@ public class Parrot : Bird
   public Parrot(string spokenMessage)
   {
     SpokenMessage = spokenMessage;
-    // This bird can fly
   }
 
   public void Speak()
   {
-    Console.WriteLine(SpokenMessage);
+    Console.WriteLine($"This bird says: {SpokenMessage}");
   }
 
 }

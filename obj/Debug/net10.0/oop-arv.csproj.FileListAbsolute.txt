@@ -1,0 +1,15 @@
+/home/jack/Documents/learn-new-stuff/OopArv/bin/Debug/net10.0/oop-arv
+/home/jack/Documents/learn-new-stuff/OopArv/bin/Debug/net10.0/oop-arv.deps.json
+/home/jack/Documents/learn-new-stuff/OopArv/bin/Debug/net10.0/oop-arv.runtimeconfig.json
+/home/jack/Documents/learn-new-stuff/OopArv/bin/Debug/net10.0/oop-arv.dll
+/home/jack/Documents/learn-new-stuff/OopArv/bin/Debug/net10.0/oop-arv.pdb
+/home/jack/Documents/learn-new-stuff/OopArv/obj/Debug/net10.0/oop-arv.GeneratedMSBuildEditorConfig.editorconfig
+/home/jack/Documents/learn-new-stuff/OopArv/obj/Debug/net10.0/oop-arv.AssemblyInfoInputs.cache
+/home/jack/Documents/learn-new-stuff/OopArv/obj/Debug/net10.0/oop-arv.AssemblyInfo.cs
+/home/jack/Documents/learn-new-stuff/OopArv/obj/Debug/net10.0/oop-arv.csproj.CoreCompileInputs.cache
+/home/jack/Documents/learn-new-stuff/OopArv/obj/Debug/net10.0/oop-arv.sourcelink.json
+/home/jack/Documents/learn-new-stuff/OopArv/obj/Debug/net10.0/oop-arv.dll
+/home/jack/Documents/learn-new-stuff/OopArv/obj/Debug/net10.0/refint/oop-arv.dll
+/home/jack/Documents/learn-new-stuff/OopArv/obj/Debug/net10.0/oop-arv.pdb
+/home/jack/Documents/learn-new-stuff/OopArv/obj/Debug/net10.0/oop-arv.genruntimeconfig.cache
+/home/jack/Documents/learn-new-stuff/OopArv/obj/Debug/net10.0/ref/oop-arv.dll
